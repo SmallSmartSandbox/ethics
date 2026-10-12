@@ -1,4 +1,4 @@
-# SmallSmartSandbox AI Ethics
+# SSB Code of Ethics for Artificial Intelligence Systems
 
 This repository contains the SmallSmartSandbox Code of Ethics for AI systems,
 their operators, tools, and evaluation infrastructure.
