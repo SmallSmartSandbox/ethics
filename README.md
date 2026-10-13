@@ -8,4 +8,4 @@ responsibility, authorization, privacy, transparency, sandbox security, and
 research. It also includes technical requirements for isolation, monitoring,
 shutdown, safe failure, and compliance testing.
 
-Read [code.md](code.md) for the complete document.
+Read [code.md](code/code.md) for the complete document.
